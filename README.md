@@ -6,7 +6,7 @@
 <p>1. To verify DHCP service before configuration, I opened command prompt on Windows 11, I typed in <b><i>"ipconfig /release"</i></b> to release the computer's IP address and afterwards typed <b><i>"ipconfig /renew"</i></b> to get a new IP address</p>
 <p align="center"><img src="https://i.imgur.com/jH0Yp9Y.png" height="50%" width="50%" alt="image"/>
 
-<h3>*Verify SMB Access</h3>
+<h3>*Verifying SMB Access</h3>
 <p>1. To Verify SMB Access before configuration, On the Member Server(MS1) I created a new shared folder by clicking on File and Storage services</p>
 <p align="center"><img src="https://i.imgur.com/fNlYdur.png" height="50%" width="50%" alt="image"/>
 
