@@ -102,7 +102,7 @@
 
 <h2>Test the Firewall Rules from the Client Computers</h2>
 <h3>*Testing DHCP Access</h3>
-<p><b>On WIndows 10</b> Now to test DHCP Access, I opened command prompt on windows 10, typed in <b><i>Ipconfig /release</i></b> and then <b><i>Ipconfig /renew</i></b>. I got an error which says:
+<p><b>On Windows 10</b> Now to test DHCP Access, I opened command prompt on windows 10, typed in <b><i>Ipconfig /release</i></b> and then <b><i>Ipconfig /renew</i></b>. I got an error which says:
 <b><i>“An error occurred while renewing interface Ethernet1 : unable to contact your DHCP server : Request has timed out”</i></b></p>
 <p align="center"><img src="https://i.imgur.com/BtMIVO4.png" height="50%" width="50%" alt="image"/>                    
 
